@@ -5,12 +5,14 @@ A lightweight tool to extract OS, CPU, RAM, and storage structure from Linux sys
 
 ## Installation & Usage
 1.**Clone the repository**:
-
+```bash
 git clone https://github.com/kbdd23/ruby-sysinfo-linux.git
-
+```
+```bash
 cd ruby-sysinfo-linux
+```
 
-(or copy the systeminfo.rb file content in a ruby file)
+*(or copy the systeminfo.rb file content in a ruby file)*
 
 2.**Run the script**:
 
@@ -28,3 +30,7 @@ On Kali Linux
 
 <img width="433" height="175" alt="onkali" src="https://github.com/user-attachments/assets/8eb55ef0-03b3-4d37-8a63-5040646fbe82" />
 
+
+## License
+
+MIT License - See **LICENSE** for details.
