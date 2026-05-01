@@ -7,7 +7,9 @@ A lightweight tool to extract OS, CPU, RAM, and storage structure from Linux sys
 1.**Clone the repository**:
 
 git clone https://github.com/kbdd23/ruby-sysinfo-linux.git
+
 cd ruby-sysinfo-linux
+
 (or copy the systeminfo.rb file content in a ruby file)
 
 2.**Run the script**:
