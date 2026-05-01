@@ -17,7 +17,11 @@ ruby systeminfo.rb
 *Note: Ensure you have `lsblk` installed and you are running this on a Linux-based system to allow the script to access `/proc` and `/etc` files. If not, this may broke.*
 
 ## Running
+On Linux Mint
+
 <img width="403" height="222" alt="onmint" src="https://github.com/user-attachments/assets/c907f352-26c8-4744-8aad-a79175f7618c" />
+---
+On Kali Linux
 
 <img width="433" height="175" alt="onkali" src="https://github.com/user-attachments/assets/8eb55ef0-03b3-4d37-8a63-5040646fbe82" />
 
