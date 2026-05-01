@@ -16,9 +16,11 @@ cd ruby-sysinfo-linux
 
 2.**Run the script**:
 
+```bash
 ruby systeminfo.rb
+```
 
-*Note: Ensure you have `lsblk` installed and you are running this on a Linux-based system to allow the script to access `/proc` and `/etc` files. If not, this may broke.*
+***Note**: Ensure you have `lsblk` installed and you are running this on a Linux-based system to allow the script to access `/proc` and `/etc` files. If not, this may broke.*
 
 ## Running
 On Linux Mint
