@@ -54,7 +54,7 @@ def main()
     puts "Storage: #{report}"
     puts "--------------------------------------"
     if main_disk
-        puts %x{lsblk -o NAME,SIZE,MOUNTPOINT /dev/#{main_disk[0]}}
+        puts %x{lsblk -o NAME,SIZE,MOUNTPOINT #{main_disk[0]}}
     end
 end
 
